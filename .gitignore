@@ -1,2 +1,9 @@
-api/env
+# api
+api/env/
 api/.env
+
+# ui
+ui/node_modules/
+ui/dist/
+.DS_Store
+.vscode/
